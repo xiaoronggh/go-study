@@ -1,7 +1,7 @@
 package main
 
 import (
-	pb "awesomeProject/proto"
+	pb "awesomeProject/rpc/proto"
 	"context"
 	"google.golang.org/grpc"
 	"log"
